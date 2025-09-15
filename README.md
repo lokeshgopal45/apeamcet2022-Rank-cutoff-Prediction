@@ -1,4 +1,6 @@
 # **APEAMCET-2022** **Ranks-Cutoff** **Analysis** & **Prediction**
+<img width="1699" height="732" alt="image" src="https://github.com/user-attachments/assets/6eb3d0d4-fa90-4397-8e1a-0e5a9f07993c" />
+
 ## Introduction: 
 - APEAMCET is Entrance Exam For Undergrad Engineering & Pharmacy Courses in the state of Andhra Pradesh India
 - Each Year Exam is conducted for 10+2 Students (Maths, Pharma, Agri) in 13 Districts with more than 290+ Colleges in 2 Regions
